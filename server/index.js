@@ -1,3 +1,6 @@
+npm install
+cd server/
+node index.js
 const fs = require("fs");
 const https = require("https");
 const WebSocket = require("ws");
