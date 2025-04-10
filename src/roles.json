@@ -1741,6 +1741,7 @@
   },
   {
     "id": "hatter",
+    "image": "https://github.com/Killervan217/townsquare/blob/develop/src/assets/icons/hatter.png"
     "name": "Hatter",
     "edition": "",
     "team": "outsider",
